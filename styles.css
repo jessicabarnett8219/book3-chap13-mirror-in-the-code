@@ -1,0 +1,15 @@
+.flex-container {
+  display: flex;
+}
+
+.article {
+  flex-basis: 50%;
+}
+
+#article1 {
+  border: 2px solid blue;
+}
+
+#article2 {
+  border: 2px solid orange;
+}
